@@ -1,0 +1,18 @@
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.aiff
+
+# Python environments
+venv/
+.env/
+
+# Cache & temp
+__pycache__/
+*.log
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
